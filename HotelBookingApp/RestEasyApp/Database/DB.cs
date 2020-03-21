@@ -17,7 +17,7 @@ namespace RestEasyApp.Database
         protected SqlConnection sqlConnection;
         #endregion
 
-        #region Contructor
+        #region Constructor
         public DB()
         {
             try
