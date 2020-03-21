@@ -1,0 +1,25 @@
+                                 RESERVATION CONFIRMATION
+  
+                                 2019/10/01 12:00:00 AM  
+  
+Dear Gwebu 
+  
+We are delighted to inform you that your booking at Rest East Hotel has been successful.
+Please see your Reservation Details as follows below:
+ 
+ 
+ 
+GuestID:        8
+Price:          550
+Room Number:    3
+Check In date : 09 December 2019
+Check Out date: 17 December 2019
+Room type:      Single
+  
+We hope to see you soon 
+  
+  
+  
+  
+Kind Regards
+RestEasy Hotel 
